@@ -15,7 +15,6 @@ import React, { useState } from "react";
 * metody:
 *   handleSubmit - obsługuje zdarzenie zatwierdzenia formularza
 *
-* autor: EE-Informatyk.pl
 * ****************************************************/
 function App() {
 <<<<<<< HEAD
@@ -38,7 +37,6 @@ function App() {
   *       - Imię i nazwisko podane w formularzu
   *       - Nazwę kursu na podstawie numeru wpisanego w formularzu
   *       lub komunikat "Nieprawidłowy numer kursu" w przypadku błędnego numeru.
-  * autor: EE-Informatyk.pl
   * ****************************************************/
   const handleSubmit = (e) => {
     e.preventDefault();
